@@ -63,7 +63,56 @@ Este proyecto está actualmente en fase de desarrollo y se encuentra en constant
 <img src="Images/ecu.gif" alt="pantalla principal">
 ---
 
+# Ejemplo de JSON en Recolectado dedatos
 
+A continuación se muestra un ejemplo de objetos JSON:
+
+```json
+"HYUINDAI10ROBERTOAGUILAR": {
+    "Coolant_temperature": "0000",
+    "MASS_level": 338.69,
+    "RPM": 11835.75,
+    "THROTTLE_POSITION": 81.17647058823529,
+    "VIN": "2C4",
+    "Vehicle_Speed": 184.0,
+    "log": [
+        {
+            "Coolant_Temperature": 79,
+            "GPS": "00",
+            "MASS_level": 338.69,
+            "RPM": 11835.75,
+            "THROTTLE_POSITION": 81.17647058823529,
+            "Vehicle_Speed": 184.0,
+            "timestamp": "20200501120000"
+        },
+        {
+            "Coolant_Temperature": 79,
+            "GPS": "00",
+            "MASS_level": 338.69,
+            "RPM": 11835.75,
+            "THROTTLE_POSITION": 81.17647058823529,
+            "Vehicle_Speed": 184.0,
+            "timestamp": "20200501120000"
+        },
+        {
+            "Coolant_Temperature": 79,
+            "GPS": "00",
+            "MASS_level": 338.69,
+            "RPM": 11835.75,
+            "THROTTLE_POSITION": 81.17647058823529,
+            "Vehicle_Speed": 184.0,
+            "timestamp": "20200501120000"
+        },
+        {
+            "Coolant_Temperature": 79,
+            "GPS": "00",
+            "MASS_level": 338.69,
+            "RPM": 11835.75,
+            "THROTTLE_POSITION": 81.17647058823529,
+            "Vehicle_Speed": 184.0,
+            "timestamp": "20200501120000"
+        }
+```
 ---
 
 ⚠️ **Este repositorio se encuentra actualmente en mantenimiento. Estaremos de vuelta pronto.**
