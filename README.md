@@ -55,3 +55,7 @@ Para más detalles sobre cómo usar y configurar el sistema, consulta la documen
 
 Este proyecto está actualmente en fase de desarrollo y se encuentra en constante evolución. Cualquier contribución o sugerencia es bienvenida.
 
+
+---
+
+⚠️ **Este repositorio se encuentra actualmente en mantenimiento. Estaremos de vuelta pronto.**
