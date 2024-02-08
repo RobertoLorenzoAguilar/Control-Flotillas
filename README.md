@@ -63,7 +63,7 @@ Este proyecto está actualmente en fase de desarrollo y se encuentra en constant
 <img src="Images/ecu.gif" alt="pantalla principal">
 ---
 
-# Ejemplo de JSON en Recolectado dedatos
+# Ejemplo de JSON en Recolectado ded atos
 
 A continuación se muestra un ejemplo de objetos JSON:
 
