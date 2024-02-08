@@ -56,6 +56,14 @@ Para más detalles sobre cómo usar y configurar el sistema, consulta la documen
 Este proyecto está actualmente en fase de desarrollo y se encuentra en constante evolución. Cualquier contribución o sugerencia es bienvenida.
 
 
+## Extras.
+<img src="Images/server_end_point.gif" alt="pantalla principal">
+<img src="Images/reader-scan-bluetooth-raspberry.gif" alt="pantalla principal">
+<img src="Images/endpoint-get-value.gif" alt="pantalla principal">
+<img src="Images/ecu.gif" alt="pantalla principal">
+---
+
+
 ---
 
 ⚠️ **Este repositorio se encuentra actualmente en mantenimiento. Estaremos de vuelta pronto.**
