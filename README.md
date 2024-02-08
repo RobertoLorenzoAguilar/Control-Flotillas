@@ -1,4 +1,4 @@
-## Control-Flotillas "Proptotipo".
+## Control-Flotillas "Prototipo".
 <img src="Images/ARQUITECTURA.png" alt="pantalla principal">
 ---
 
