@@ -1,5 +1,6 @@
-# Control-Flotillas
-
+## Control-Flotillas "Proptotipo".
+<img src="Images/ARQUITECTURA.png" alt="pantalla principal">
+---
 
 
 # Sistema de Control de Flotillas de Carros
